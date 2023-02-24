@@ -1,0 +1,16 @@
+.con{
+    width:500px;
+    height: 200px;
+    margin-left: 40%;
+    margin-top: 40%;
+    align-items: center;
+    color: rgb(98, 172, 172);
+}
+
+h1{
+    text-align: center;
+    margin-top:0px;
+}
+form{
+    margin-left:150px;
+}
